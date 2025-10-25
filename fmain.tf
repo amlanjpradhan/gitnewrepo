@@ -11,3 +11,4 @@ print(data)
 print("App Name:", data["app"]["name"])
 print("Database Host:", data["database"]["host"])
 print("Features:", data["featuresABCDEF"])
+
